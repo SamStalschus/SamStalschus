@@ -1,5 +1,5 @@
 
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+<img src="https://github.com/SamStalschus/SamStalschus/blob/master/IMAGE-NAME">
 
 ### Hi 👋
 I am a student of information systems, and I try to contribute with projects related to web development.
