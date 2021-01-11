@@ -11,14 +11,12 @@
 <a href="https://www.facebook.com/sam.stalschus">
   <img align="left" alt="Samuel Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
-<a href="https://www.instagram.com/samstalschusx/">
-  <img align="left" alt="Samuel Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
-</a>
 <br />
 
 Hi, I'm [Samuel Stalschus!](https://www.instagram.com/samstalschusx/), a passionate and self-taught web development student 🚀 from Brazil.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
   
 **Talking about Personal Stuffs:**
 
