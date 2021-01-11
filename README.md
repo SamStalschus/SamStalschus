@@ -2,21 +2,18 @@
 <a href="https://discord.gg/">
   <img align="left" alt="Samuel Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/">
-  <img align="left" alt="Samuel Stalschus | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/samuel-stalschus-9306221aa/">
   <img align="left" alt="Samuel LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/7kkj14lfkonfs83ia17r5xmm1">
   <img align="left" alt="Samuel Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-<a href="https://www.reddit.com/">
-  <img align="left" alt="Samuel Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
+<a href="https://www.facebook.com/sam.stalschus">
+  <img align="left" alt="Samuel Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
+<a href="https://www.instagram.com/samstalschusx/">
+  <img align="left" alt="Samuel Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
+</a>
 <br />
 
 Hi, I'm [Samuel Stalschus!](https://www.instagram.com/samstalschusx/), a passionate and self-taught web development student 🚀 from Brazil.
@@ -26,8 +23,9 @@ Hi, I'm [Samuel Stalschus!](https://www.instagram.com/samstalschusx/), a passion
 **Talking about Personal Stuffs:**
 
 - :telescope: I am currently working in the area of web development (I am also improving my knowledge with some frameworks).
-- :seedling: I am currently learning TypeScripe, MongoDB and project optimization techniques..
+- :seedling: I am currently learning MongoDB and project optimization techniques..
 - 🤝 I'm looking to collaborate on backend and frontend web development projects. 
+
 
 **Languages and Tools in Learning:**  
 
@@ -36,17 +34,10 @@ Hi, I'm [Samuel Stalschus!](https://www.instagram.com/samstalschusx/), a passion
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  6,843 Karma Points           
-🌸  Completed 5 tasks today           
-✅  Completed 524 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongo/mongo.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SamStalschus" alt="SamStalschus" />
