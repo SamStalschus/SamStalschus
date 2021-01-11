@@ -12,7 +12,7 @@
   <img align="left" alt="Samuel Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 <br />
-
+<br>
 
 Hi, I'm [Samuel Stalschus!](https://www.instagram.com/samstalschusx/), a passionate and self-taught web development student 🚀 from Brazil.
 
