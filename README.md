@@ -45,6 +45,6 @@ Hi, I'm [Samuel Stalschus!](https://www.instagram.com/samstalschusx/), a passion
 
 📈 My GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=SamStalschus" alt="SamStalschus" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=SamStalschus&show_icons=true&theme=radical" alt="SamStalschus" />
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamStalschus&layout=compact" alt="SamStalschus" />
 <br>
