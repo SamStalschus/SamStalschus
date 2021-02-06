@@ -11,6 +11,9 @@
 <a href="https://www.facebook.com/sam.stalschus">
   <img align="left" alt="Samuel Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
+<a href="https://www.youtube.com/channel/UCKEp2j7uJzzoLxxVGBMjiNg">
+  <img align="left" alt="Samuel Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+</a>
 <br />
 
 <br>
