@@ -29,7 +29,7 @@ Hi, I'm [Samuel Stalschus!](https://www.instagram.com/samstalschusx/), a passion
 
 - :telescope: I am currently working in the area of web development (I am also improving my knowledge with some frameworks).
 - :seedling: I am currently learning MongoDB and project optimization techniques..
-- 🤝 I'm looking to collaborate on backend and frontend web development projects. 
+- 🤝 I'm looking to collaborate on backend web development projects. 
 
 
 **Languages and Tools in Learning:**  
