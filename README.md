@@ -9,7 +9,7 @@
   <img align="left" alt="Samuel Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 <a href="https://www.facebook.com/sam.stalschus">
-  <img align="left" alt="Samuel Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  <img align="left" alt="Samuel Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCKEp2j7uJzzoLxxVGBMjiNg">
   <img align="left" alt="Samuel Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
