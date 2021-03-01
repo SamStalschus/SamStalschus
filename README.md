@@ -18,7 +18,9 @@
 
 <br>
 
-Hi, I'm [Samuel Stalschus!](https://www.instagram.com/samstalschusx/), a passionate and self-taught web development student 🚀 from Brazil.
+Hi, I'm [Samuel Stalschus!](https://www.instagram.com/samstalschusx/), welcome to my profile. I hope to be brief in telling you about myself!!! Since childhood I have been passionate about technology, over time I have been able to develop this passion through programming.... Currently my learnings are focused on back-end web development, but I am a big enthusiast of the beauty of the whole front-end framework. I am very interested in learning and contributing to the community. Count me in!!! 🚀🚀 
+
+
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
