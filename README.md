@@ -23,7 +23,7 @@ Hi, I'm [Samuel Stalschus!](https://www.instagram.com/samstalschusx/), welcome t
 
 
 
-  <video align="right" alt="GIF" src="https://raw.githubusercontent.com/SamStalschus/SamStalschus/main/source.mp4" width="500" height="320" />
+  <src align="right" alt="GIF" src="https://raw.githubusercontent.com/SamStalschus/SamStalschus/main/source.mp4" width="500" height="320" />
 
   
   
