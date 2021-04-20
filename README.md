@@ -50,7 +50,7 @@ Hi, I'm [Samuel Stalschus!](https://www.instagram.com/samstalschusx/), welcome t
 
 <br>
 📈 My GitHub Stats
-
+<br>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=SamStalschus&show_icons=true" alt="SamStalschus" width="380"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamStalschus&layout=compact" alt="SamStalschus" width="380"/>
 <br>
